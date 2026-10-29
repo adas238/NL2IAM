@@ -4,3 +4,4 @@ pydantic
 python-dotenv
 parliament
 cloudsplaining
+setuptools<81
