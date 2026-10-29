@@ -1,0 +1,18 @@
+# Python environments
+venv/
+.venv/
+
+# Secrets
+.env
+.streamlit/secrets.toml
+
+# Python cache and test artifacts
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Local logs
+logs/
+
+# Backup copies
+*_backup.py

@@ -1,0 +1,6 @@
+streamlit
+openai
+pydantic
+python-dotenv
+parliament
+cloudsplaining
